@@ -1,0 +1,24 @@
+# ignore all files in this directory tree
+/*
+Assignments/*
+
+
+#except
+!.gitignore
+!Assignments/
+
+!Assignments/Assignment1/
+Assignments/Assignment1/*
+!Assignments/Assignment1/src/
+# hide
+Assignments/Assignment1/src/.DS_Store
+
+!Assignments/Assignment2/
+Assignments/Assignment2/*
+!Assignments/Assignment2/src/
+#hide
+Assignments/Assignment2/src/.DS_Store
+
+!FinalProject/
+FinalProject/*
+!src/
