@@ -6,6 +6,7 @@ Assignments/*
 #except
 !.gitignore
 !Assignments/
+!README.md
 
 !Assignments/Assignment1/
 Assignments/Assignment1/*
